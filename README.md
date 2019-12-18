@@ -8,7 +8,7 @@ However with the past experiences in the field of data science, I realised I had
 - Data analysis
 - Data modelling
 
-I did this project on my own in order to push my limits as solo individual project.
+I did this project on my own in order to push my limits as **solo individual project**.
 
 My research is about using Kickstarter data to predict which projects will achieve funding as well as those which do not seem likely to with Machine learning. But before that, there is data exploration and data analysis to understand the Kickstarter data. All was done using Crisp-DM cycle.
 
